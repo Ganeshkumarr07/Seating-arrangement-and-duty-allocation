@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\laravell\projectn\resources\views/room.blade.php ENDPATH**/ ?>
